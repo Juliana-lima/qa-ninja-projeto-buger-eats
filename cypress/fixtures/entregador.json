@@ -1,0 +1,34 @@
+{
+    "signup": {
+        "nome": "Juliana Dias",
+            "cpf": "00000000158",
+            "email": "julitest@mailinator.com",
+            "whatsapp" : "21987999999",
+            "endereco" : {
+                "cep": "26540290",
+                "numero" : "300",
+                "complemento" : "Fundos",
+                "rua" : "Rua Fernando Gonçalves de Almeida",
+                "bairro" : "Cabuis",
+                "ciadade_uf" : "Nilópolis/RJ"
+            },
+            "metodo_entrega" : "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_invalido": {
+        "nome": "Lucas Souza",
+            "cpf": "00000000470",
+            "email": "lu36484=mailinator.com",
+            "whatsapp" : "21987475502",
+            "endereco" : {
+                "cep": "21645320",
+                "numero" : "200",
+                "complemento" : "Casa 1",
+                "rua" : "Rua Itatiba",
+                "bairro" : "Anchieta",
+                "ciadade_uf" : "Rio de Janeiro/RJ"
+            },
+            "metodo_entrega" : "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}
